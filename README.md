@@ -39,4 +39,4 @@ Este repositorio contiene solo la carpeta `dist` generada por Vite. El código f
 ## Contacto
 
 - *GitHub*: [jettsus](https://github.com/jettsus)
-- *Correo*: jesusmanuelescobarmoraga@gmail.com
+- *Correo*: jettsusc0c@gmail.com
